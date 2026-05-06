@@ -1,0 +1,11 @@
+matplotlib>=3.7
+mmcv>=2.0
+mmengine>=0.10
+mmsegmentation>=1.0
+numpy>=1.23
+opencv-python>=4.8
+pandas>=1.5
+pillow>=10.0
+torch>=2.0
+tqdm>=4.65
+transformers>=4.40

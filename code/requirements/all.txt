@@ -1,0 +1,3 @@
+-r vision.txt
+-r audio.txt
+-r psychoacoustics.txt

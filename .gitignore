@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.ipynb_checkpoints/
+code/outputs/
+code/.venv/
+code/.venv-*/
+*.tmp
+*.log
+paper/主要问题.pdf
+paper/Cover letter.docx
+paper/Cover letter（模板）.docx
+paper/declarationStatement.docx
+paper/Manuscript.docx
+paper/Supplementary Materials.docx
+paper/Manuscript.pdf
+paper/Supplementary Materials.pdf
+source file/fig 1.pdf
+source file/fig 2.ai
+source file/fig 7.pdf
+source file/fig 8.pdf
+source file/fig3.ai
+source file/fig4-6.py
