@@ -1,6 +1,6 @@
 # waterfront-park-landscape-study
 
-This repository bundles the core materials for the study *Integrating Spatial Structure and Soundscape to Explain Dynamic Landscape Preference in Waterfront Parks: A DAG-informed Machine Learning Approach*.
+This repository bundles the core materials for the study *Dynamic Audio-Visual Preference in Waterfront Walking Environments: Effects of Distance-Layered Spatial Structure and Soundscape*.
 
 ## Repository Contents
 
